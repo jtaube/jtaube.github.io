@@ -83,8 +83,9 @@ author:
   name             : "Juliana Taube"
   avatar           : "headshot.JPG"
   bio              : "Student at Bowdoin College"
+  pronouns         : "she/her"
   location         : "Brunswick, ME"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : taubejc@gmail.com

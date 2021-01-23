@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2021
   * New <a href="https://www.medrxiv.org/content/10.1101/2021.01.11.21249622v1">preprint</a> addressing several questions about superspreading epidemiology using the OutbreakTrees database posted!
-  * <a href="outbreaktrees.ecology.uga.edu">OutbreakTrees</a> transmission tree database now available online
+  * <a href="https://outbreaktrees.ecology.uga.edu">OutbreakTrees</a> transmission tree database now available online
 
 ## 2020
   * Worked on several projects related to COVID-19 as an intern with Innovation, Development, Evaluation, and Analytics (IDEA) group at Division of Global Migration & Quarantine (DGMQ), CDC
