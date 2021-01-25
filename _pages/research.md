@@ -11,13 +11,12 @@ For my undergraduate honors thesis I am constructing a COVID-19 disease transmis
 
 
 ## Publications:
+<strong> An open-access database of infectious disease transmission trees to explore superspreader epidemiology</strong> <br>
+<strong> Taube JC</strong>, Miller PB, Drake JM.   <i>In review at PLoS Biology</i>
+<br>
+<a href="https://www.medrxiv.org/content/10.1101/2021.01.11.21249622v1"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/outbreaktrees-preprint.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/DrakeLab/taube-transmission-trees"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
-{% if author.googlescholar %}
-  %You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+ 
 
 
