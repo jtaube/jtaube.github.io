@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2021
+  * Presented poster about OutbreakTrees database and analyses of superspreader epidemiology in Rapid Fire Talks session at MIDAS Meeting 2021 <a href="/files/taube-midas-2021.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * New <a href="https://www.medrxiv.org/content/10.1101/2021.01.11.21249622v1">preprint</a> addressing several questions about superspreading epidemiology using the OutbreakTrees database!
   * <a href="https://outbreaktrees.ecology.uga.edu">OutbreakTrees</a> transmission tree database available online
 
