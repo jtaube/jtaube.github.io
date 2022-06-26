@@ -5,7 +5,13 @@ permalink: /news/
 author_profile: true
 ---
 
+## 2022
+<!--  * New preprint on spatiotemporal trends in self-reported face mask-wearing in the U.S., my first project in the Bansal Lab -->
+  * First first-author <a href="https://doi.org/10.1371/journal.pbio.3001685">paper</a> published in PLOS Biology!
+  * Attended EEID 2022 virtually
+
 ## 2021
+  * Attended Epidemics 8 virtually
   * Joined the <a href='https://bansallab.com/'>Bansal Lab</a> as a Research Associate
   * Graduated from Bowdoin College <i>summa cum laude</i> with Honors in Mathematics
   * Presented poster about OutbreakTrees database and analyses of superspreader epidemiology in Rapid Fire Talks session at MIDAS Meeting 2021 <a href="/files/taube-midas-2021.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>

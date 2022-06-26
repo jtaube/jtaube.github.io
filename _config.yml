@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juliana Taube"
+title                    : "Juliana C. Taube"
 title_separator          : "-"
-name                     : &name "Juliana Taube"
+name                     : &name "Juliana C. Taube"
 description              : &description "personal description"
 url                      : https://jtaube.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   location         : "Georgetown University"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=rw5hA6IAAAAJ&hl=en"
   email            : taubejc@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
