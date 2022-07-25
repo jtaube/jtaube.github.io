@@ -17,7 +17,7 @@ author_profile: true
 <strong> Characterizing spatiotemporal trends in self-reported mask-wearing behavior in the United States</strong> <br>
 <strong> Taube JC</strong>, Susswein Z, Bansal S (2022) <i>Preprint, under review</i> 
 <br>
-<a href="https://doi.org/10.1101/2022.07.19.22277821"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a 
+<a href="https://doi.org/10.1101/2022.07.19.22277821"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> 
 <!-- href="https://github.com/DrakeLab/taube-transmission-trees"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> -->
 
 <strong> An open-access database of infectious disease transmission trees to explore superspreader epidemiology</strong> <br>
