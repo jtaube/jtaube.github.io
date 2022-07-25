@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2022
-<!--  * New preprint on spatiotemporal trends in self-reported face mask-wearing in the U.S., my first project in the Bansal Lab -->
+  * New <a href="https://doi.org/10.1101/2022.07.19.22277821">preprint</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S., my first project in the Bansal Lab! 
   * First first-author <a href="https://doi.org/10.1371/journal.pbio.3001685">paper</a> published in PLOS Biology!
   * Attended EEID 2022 virtually
 
