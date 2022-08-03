@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## 2022
-  * New <a href="https://doi.org/10.1101/2022.07.19.22277821">preprint</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S., my first project in the Bansal Lab! 
+  * New <a href="https://doi.org/10.1101/2022.07.29.22278217">preprint</a> on the landscape of orthopoxvirus susceptibility, pertinent to the 2022 monkeypox outbreak
+  * New <a href="https://doi.org/10.1101/2022.07.19.22277821">preprint</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S.
   * First first-author <a href="https://doi.org/10.1371/journal.pbio.3001685">paper</a> published in PLOS Biology!
   * Attended EEID 2022 virtually
 
@@ -15,7 +16,7 @@ author_profile: true
   * Joined the <a href='https://bansallab.com/'>Bansal Lab</a> as a Research Associate
   * Graduated from Bowdoin College <i>summa cum laude</i> with Honors in Mathematics
   * Presented poster about OutbreakTrees database and analyses of superspreader epidemiology in Rapid Fire Talks session at MIDAS Meeting 2021 <a href="/files/taube-midas-2021.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-  * New <a href="https://www.medrxiv.org/content/10.1101/2021.01.11.21249622v1">preprint</a> addressing several questions about superspreading epidemiology using the OutbreakTrees database
+  * New <a href="https://www.medrxiv.org/content/10.1101/2021.01.11.21249622v1">preprint</a> addressing questions about superspreading epidemiology using the OutbreakTrees database
   * <a href="https://outbreaktrees.ecology.uga.edu">OutbreakTrees</a> transmission tree database available online
 
 ## 2020
