@@ -8,9 +8,12 @@ author_profile: true
 ## Current projects:
 <!-- add photos!!!! -->
 <ul>
-<li> My most recent project in the Bansal Lab examines spatiotemporal heterogeneity in self-reported numbers of non-household contacts across several groups in the U.S., including people of different ages, with or without previous COVID-19 infection, and varying reported worry about severe COVID-19 infection. While this study focuses on contact during the COVID-19 pandemic, by leveraging responses from other survey questions we are able to characterize recent contact patterns in the U.S.</li>
 
-<li> For my undergraduate honors thesis, I constructed a SARS-CoV-2 coupled disease-behavior dynamical model, that incorporated heterogeneous contact patterns and dynamic thresholds for masking behavior change based on individuals' perceived risk and social influence. I was advised on this project by Professors <a href="http://www.bowdoin.edu/~mirfan/">Mohammad Irfan</a> and <a href="https://www.bowdoin.edu/profiles/faculty/mlzeeman/">Mary Lou Zeeman</a>. We are currently extending the analysis for submission for publication. </li>
+<li> <strong> Authorship imbalance in infectious disease dynamics:</strong> With other members of the Bansal Lab, we are documenting gender and race/ethnicity imbalances in the authorship of infectious disease dynamics publications, as well as the citation practices within these papers.</li>
+
+<li> <strong> Pandemic contact patterns in the U.S.:</strong> In this project, I am characterizing spatiotemporal heterogeneity in self-reported numbers of non-household contacts across several groups in the U.S., including people of different ages, with or without previous COVID-19 infection, and varying reported worry about severe COVID-19 infection. </li>
+
+<li> <strong> Risk and social influence for adaptive behaviors:</strong> For my undergraduate honors thesis with Professors <a href="http://www.bowdoin.edu/~mirfan/">Mohammad Irfan</a> and <a href="https://www.bowdoin.edu/profiles/faculty/mlzeeman/">Mary Lou Zeeman</a>, I constructed a coupled disease-behavior dynamical model that incorporated heterogeneous contact patterns and dynamic thresholds for masking behavior change based on individuals' perceived risk and social influence. We are currently extending the analysis for submission for publication. </li>
 </ul>
 
 ## Preprints:
