@@ -18,20 +18,20 @@ author_profile: true
 
 ## Preprints:
 
-<strong> The global landscape of susceptibility to orthopoxviruses: The legacy of smallpox vaccination</strong> <br>
-<strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022)
-<br>
-\* These authors contributed equally
-<br>
-<a href="https://doi.org/10.1101/2022.07.29.22278217"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/mpx_landscape"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-
-
 <strong> Characterizing spatiotemporal trends in self-reported mask-wearing behavior in the United States</strong> <br>
 <strong> Taube JC</strong>, Susswein Z, Bansal S (2022)
 <br>
 <a href="https://doi.org/10.1101/2022.07.19.22277821"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/spatial_masking"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 ## Peer-reviewed publications:
+
+<strong> The global landscape of smallpox vaccination history: Implications for current and future orthopoxvirus susceptibility</strong> <br>
+<strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> Accepted at Lancet Infectious Diseases </i>
+<br>
+\* These authors contributed equally
+<br>
+<a href="https://doi.org/10.1101/2022.07.29.22278217"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/mpx_landscape"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+
 
 <strong> An open-access database of infectious disease transmission trees to explore superspreader epidemiology</strong> <br>
 <strong> Taube JC</strong>, Miller PB, Drake JM (2022) <i>PLoS Biology</i> 20(6): e3001685
