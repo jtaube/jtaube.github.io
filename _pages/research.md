@@ -26,7 +26,7 @@ author_profile: true
 ## Peer-reviewed publications:
 
 <strong> The global landscape of smallpox vaccination history: Implications for current and future orthopoxvirus susceptibility</strong> <br>
-<strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> Accepted at Lancet Infectious Diseases </i>
+<strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> Lancet Infectious Diseases (in press)</i>
 <br>
 \* These authors contributed equally
 <br>
