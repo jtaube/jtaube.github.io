@@ -26,7 +26,7 @@ author_profile: true
 ## Peer-reviewed publications:
 
 <strong> The global landscape of smallpox vaccination history: Implications for current and future orthopoxvirus susceptibility</strong> <br>
-<strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> Lancet Infectious Diseases (in press)</i>
+<strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> Lancet Infectious Diseases. </i> In press.
 <br>
 \* These authors contributed equally
 <br>
@@ -36,12 +36,12 @@ author_profile: true
 <strong> An open-access database of infectious disease transmission trees to explore superspreader epidemiology</strong> <br>
 <strong> Taube JC</strong>, Miller PB, Drake JM (2022) <i>PLoS Biology</i> 20(6): e3001685
 <br>
-<a href="https://doi.org/10.1371/journal.pbio.3001685"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="https://github.com/DrakeLab/taube-transmission-trees"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+<a href="https://doi.org/10.1371/journal.pbio.3001685"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/outbreak-trees.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/DrakeLab/taube-transmission-trees"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 <!-- <a href="/files/outbreaktrees-preprint.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
 
 <strong> Bronchiolitis hospitalizations in northern New England: Clues to disease prevention </strong> <br>
-Wright PF, Hoen AG, Jarvis JD, Zens MS, Dade EF, Karagas MR, <strong> Taube JC</strong>, Brickley EB (2022) <i>Therapeutic Advances in Infectious Disease</i> 9: 1-11. <br> <a href="https://doi.org/10.1177/20499361221099447"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+Wright PF, Hoen AG, Jarvis JD, Zens MS, Dade EF, Karagas MR, <strong> Taube JC</strong>, Brickley EB (2022) <i>Therapeutic Advances in Infectious Disease</i> 9: 1-11. <br> <a href="https://doi.org/10.1177/20499361221099447"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/bronchiolitis.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
 
 

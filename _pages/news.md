@@ -9,7 +9,7 @@ author_profile: true
   * Presented work on spatiotemporal trends in mask-wearing at 2022 MIDAS Meeting <a href="/files/taube-midas-2022.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * New <a href="https://doi.org/10.1101/2022.07.29.22278217">preprint</a> on the landscape of orthopoxvirus susceptibility, pertinent to the 2022 monkeypox outbreak
   * New <a href="https://doi.org/10.1101/2022.07.19.22277821">preprint</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S.
-  * First first-author <a href="https://doi.org/10.1371/journal.pbio.3001685">paper</a> published in PLOS Biology!
+  * First first-author <a href="https://doi.org/10.1371/journal.pbio.3001685">paper</a> published in PLOS Biology! <a href="/files/outbreak-trees.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * Attended EEID 2022 virtually
 
 ## 2021
