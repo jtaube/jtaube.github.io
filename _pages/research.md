@@ -25,12 +25,12 @@ author_profile: true
 
 ## Peer-reviewed publications:
 
-<strong> The global landscape of smallpox vaccination history: Implications for current and future orthopoxvirus susceptibility</strong> <br>
+<strong> The global landscape of smallpox vaccination history and implications for current and future orthopoxvirus susceptibility: a modelling study</strong> <br>
 <strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> Lancet Infectious Diseases. </i> In press.
 <br>
 \* These authors contributed equally
 <br>
-<a href="https://doi.org/10.1101/2022.07.29.22278217"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/mpx_landscape"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+<a href="https://doi.org/10.1016/S1473-3099(22)00664-8"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/mpox.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/mpx_landscape"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> 
 
 
 <strong> An open-access database of infectious disease transmission trees to explore superspreader epidemiology</strong> <br>

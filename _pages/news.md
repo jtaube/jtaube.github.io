@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2022
+  *  <a href="https://doi.org/10.1371/journal.pbio.3001685">Paper</a> on spatial heterogeneity in historical smallpox vaccination history out in <i>Lancet Infectious Diseases</i> <a href="/files/mpox.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * Presented work on spatiotemporal trends in mask-wearing at 2022 MIDAS Meeting <a href="/files/taube-midas-2022.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * New <a href="https://doi.org/10.1101/2022.07.29.22278217">preprint</a> on the landscape of orthopoxvirus susceptibility, pertinent to the 2022 monkeypox outbreak
   * New <a href="https://doi.org/10.1101/2022.07.19.22277821">preprint</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S.
