@@ -16,14 +16,14 @@ author_profile: true
 <li> <strong> Risk and social influence for adaptive behaviors:</strong> For my undergraduate honors thesis with Professors <a href="http://www.bowdoin.edu/~mirfan/">Mohammad Irfan</a> and <a href="https://www.bowdoin.edu/profiles/faculty/mlzeeman/">Mary Lou Zeeman</a>, I constructed a coupled disease-behavior dynamical model that incorporated heterogeneous contact patterns and dynamic thresholds for masking behavior change based on individuals' perceived risk and social influence. We are currently extending the analysis for submission for publication. </li>
 </ul>
 
-## Preprints:
-
-<strong> Characterizing spatiotemporal trends in self-reported mask-wearing behavior in the United States</strong> <br>
-<strong> Taube JC</strong>, Susswein Z, Bansal S (2022)
-<br>
-<a href="https://doi.org/10.1101/2022.07.19.22277821"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/spatial_masking"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+<!-- ## Preprints: -->
 
 ## Peer-reviewed publications:
+
+<strong>  Spatiotemporal trends in self‑reported mask‑wearing behavior in the United States: Analysis of a large cross‑sectional survey.</strong> <br>
+<strong> Taube JC</strong>, Susswein Z, Bansal S (2023)
+<br>
+<a href="https://doi.org/10.2196/42128"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/spatial_masking"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 <strong> The global landscape of smallpox vaccination history and implications for current and future orthopoxvirus susceptibility: a modelling study</strong> <br>
 <strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> Lancet Infectious Diseases. </i> In press.
