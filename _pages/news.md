@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## 2023
-  * New <a href="https://doi.org/10.2196/42128">paper</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S.
-  * Joined the MIDAS Student Committee
+  * New <a href="https://doi.org/10.2196/42128">paper</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S. <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+  * Joined the < href="https://midasnetwork.us/midas-student/">MIDAS Student Committee</a>
 
 ## 2022
   *  New <a href="https://doi.org/10.1016/S1473-3099(22)00664-8">paper</a> on spatial heterogeneity in current smallpox vaccination history out in The Lancet Infectious Diseases <a href="/files/mpox.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
