@@ -10,7 +10,7 @@ author_profile: true
   * Joined the MIDAS Student Committee
 
 ## 2022
-  *  New <a href="https://doi.org/10.1016/S1473-3099(22)00664-8">paper</a> on spatial heterogeneity in current smallpox vaccination history out in Lancet Infectious Diseases <a href="/files/mpox.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+  *  New <a href="https://doi.org/10.1016/S1473-3099(22)00664-8">paper</a> on spatial heterogeneity in current smallpox vaccination history out in The Lancet Infectious Diseases <a href="/files/mpox.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * Presented work on spatiotemporal trends in mask-wearing at 2022 MIDAS Meeting <a href="/files/taube-midas-2022.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * First first-author <a href="https://doi.org/10.1371/journal.pbio.3001685">paper</a> published in PLOS Biology! <a href="/files/outbreak-trees.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 

@@ -21,12 +21,12 @@ author_profile: true
 ## Peer-reviewed publications:
 
 <strong>  Spatiotemporal trends in self‑reported mask‑wearing behavior in the United States: Analysis of a large cross‑sectional survey.</strong> <br>
-<strong> Taube JC</strong>, Susswein Z, Bansal S (2023)
+<strong> Taube JC</strong>, Susswein Z, Bansal S (2023) <i> JMIR Public Health and Surveillance </i> 9: e42128
 <br>
 <a href="https://doi.org/10.2196/42128"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/spatial_masking"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 <strong> The global landscape of smallpox vaccination history and implications for current and future orthopoxvirus susceptibility: a modelling study</strong> <br>
-<strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> Lancet Infectious Diseases. </i> In press.
+<strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> The Lancet Infectious Diseases. </i> In press.
 <br>
 \* These authors contributed equally
 <br>
