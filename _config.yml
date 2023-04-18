@@ -88,7 +88,7 @@ author:
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rw5hA6IAAAAJ&hl=en"
-  email            : taubejc@gmail.com
+  email            : juliana.taube@georgetown.edu #taubejc@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -116,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  pronunciation    : "https://www.name-coach.com/juliana-c-taube"
 
 
 # Reading Files

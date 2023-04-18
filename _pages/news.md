@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ## 2023
+  * Awarded the NSF GRFP for my upcoming graduate studies!
   * New <a href="https://doi.org/10.2196/42128">paper</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S. <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * Joined the <a href="https://midasnetwork.us/midas-student/">MIDAS Student Committee</a>
 
 ## 2022
-  *  New <a href="https://doi.org/10.1016/S1473-3099(22)00664-8">paper</a> on spatial heterogeneity in current smallpox vaccination history out in The Lancet Infectious Diseases <a href="/files/mpox.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+  *  New <a href="https://doi.org/10.1016/S1473-3099(22)00664-8">paper</a> on spatial heterogeneity in current smallpox vaccination history <a href="/files/mpox.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * Presented work on spatiotemporal trends in mask-wearing at 2022 MIDAS Meeting <a href="/files/taube-midas-2022.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * First first-author <a href="https://doi.org/10.1371/journal.pbio.3001685">paper</a> published in PLOS Biology! <a href="/files/outbreak-trees.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
