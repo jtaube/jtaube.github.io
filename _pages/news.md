@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2023
-  * Awarded the NSF GRFP for my upcoming graduate studies!
+  * Awarded the NSF GRF for my upcoming graduate studies!
   * New <a href="https://doi.org/10.2196/42128">paper</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S. <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * Joined the <a href="https://midasnetwork.us/midas-student/">MIDAS Student Committee</a>
 
