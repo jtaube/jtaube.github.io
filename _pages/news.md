@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2023
+  * Started my PhD in the Department of Biology at Georgetown
   * Presented poster characterizing heterogeneities in contact patterns at EEID 2023 <a href="/files/taube-eeid2023-poster.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * Awarded the NSF GRF for my upcoming graduate studies!
   * New <a href="https://doi.org/10.2196/42128">paper</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S. <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
