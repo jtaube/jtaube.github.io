@@ -11,14 +11,16 @@ author_profile: true
 
 <li> <strong> Authorship imbalance in infectious disease dynamics:</strong> With other members of the Bansal Lab, we are documenting gender and race/ethnicity imbalances in the authorship of infectious disease dynamics publications, as well as the citation practices within these papers.</li>
 
-<li> <strong> Pandemic contact patterns in the U.S.:</strong> In this project, I am characterizing spatiotemporal heterogeneity in self-reported numbers of non-household contacts across several groups in the U.S., including people of different ages, with or without previous COVID-19 infection, and varying reported worry about severe COVID-19 infection. </li>
+## Preprints:
 
-<li> <strong> Risk and social influence for adaptive behaviors:</strong> For my undergraduate honors thesis with Professors <a href="http://www.bowdoin.edu/~mirfan/">Mohammad Irfan</a> and <a href="https://www.bowdoin.edu/profiles/faculty/mlzeeman/">Mary Lou Zeeman</a>, I constructed a coupled disease-behavior dynamical model that incorporated heterogeneous contact patterns and dynamic thresholds for masking behavior change based on individuals' perceived risk and social influence. We are currently extending the analysis for submission for publication. </li>
-</ul>
+<strong>  Respiratory disease contact patterns in the US are stable but heterogeneous </strong> <br>
+<strong> Taube JC</strong>, Susswein Z, Colizza V, Bansal S (2024) <i> medRxiv </i> 
+<br>
+<a href="https://doi.org/10.1101/2024.04.26.24306450"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
-<!-- ## Preprints: -->
+<!-- <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/spatial_masking"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> -->
 
-## Peer-reviewed publications:
+## Selected publications:
 
 <strong>  Spatiotemporal trends in self‑reported mask‑wearing behavior in the United States: Analysis of a large cross‑sectional survey.</strong> <br>
 <strong> Taube JC</strong>, Susswein Z, Bansal S (2023) <i> JMIR Public Health and Surveillance </i> 9: e42128
@@ -40,8 +42,8 @@ author_profile: true
 
 <!-- <a href="/files/outbreaktrees-preprint.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
 
-<strong> Bronchiolitis hospitalizations in northern New England: Clues to disease prevention </strong> <br>
-Wright PF, Hoen AG, Jarvis JD, Zens MS, Dade EF, Karagas MR, <strong> Taube JC</strong>, Brickley EB (2022) <i>Therapeutic Advances in Infectious Disease</i> 9: 1-11. <br> <a href="https://doi.org/10.1177/20499361221099447"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/bronchiolitis.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<!-- <strong> Bronchiolitis hospitalizations in northern New England: Clues to disease prevention </strong> <br>
+Wright PF, Hoen AG, Jarvis JD, Zens MS, Dade EF, Karagas MR, <strong> Taube JC</strong>, Brickley EB (2022) <i>Therapeutic Advances in Infectious Disease</i> 9: 1-11. <br> <a href="https://doi.org/10.1177/20499361221099447"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/bronchiolitis.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
 
 
 

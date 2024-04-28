@@ -5,7 +5,11 @@ permalink: /news/
 author_profile: true
 ---
 
+## 2024
+  * New <a href="https://doi.org/10.1101/2024.04.26.24306450">preprint</a> on contact patterns in the US
+
 ## 2023
+  * Presented poster on spatiotemporal variation in contact patterns at MIDAS Meeting 2023 
   * Started my PhD in the Department of Biology at Georgetown
   * Presented poster characterizing heterogeneities in contact patterns at EEID 2023 <a href="/files/taube-eeid2023-poster.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
   * Awarded the NSF GRF for my upcoming graduate studies!
