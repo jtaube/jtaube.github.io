@@ -11,6 +11,9 @@ author_profile: true
 
 <li> <strong> Authorship imbalance in infectious disease dynamics:</strong> With other members of the Bansal Lab, we are documenting gender and race/ethnicity imbalances in the authorship of infectious disease dynamics publications, as well as the citation practices within these papers.</li>
 
+</ul>
+
+
 ## Preprints:
 
 <strong>  Respiratory disease contact patterns in the US are stable but heterogeneous </strong> <br>
@@ -18,7 +21,6 @@ author_profile: true
 <br>
 <a href="https://doi.org/10.1101/2024.04.26.24306450"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
-<!-- <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/spatial_masking"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> -->
 
 ## Selected publications:
 
@@ -26,6 +28,7 @@ author_profile: true
 <strong> Taube JC</strong>, Susswein Z, Bansal S (2023) <i> JMIR Public Health and Surveillance </i> 9: e42128
 <br>
 <a href="https://doi.org/10.2196/42128"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/spatial_masking"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+
 
 <strong> The global landscape of smallpox vaccination history and implications for current and future orthopoxvirus susceptibility: a modelling study</strong> <br>
 <strong> Taube JC</strong>\*, Rest EC\*, Lloyd-Smith JO, Bansal S (2022) <i> The Lancet Infectious Diseases </i> 23(4): 454-462.
