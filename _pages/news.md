@@ -10,7 +10,7 @@ author_profile: true
   * New <a href="https://doi.org/10.1101/2024.04.26.24306450">preprint</a> on contact patterns in the U.S.
 
 ## 2023
-  * Presented poster on spatiotemporal variation in contact patterns at EEID and the annual MIDAS Meeting <a href="/files/taube-midas-2023-poster.pdf><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> 
+  * Presented poster on spatiotemporal variation in contact patterns at EEID and the annual MIDAS Meeting <a href="/files/taube-midas-2023-poster.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> 
   * Started my PhD in the Department of Biology at Georgetown
   * Awarded the NSF GRF for my upcoming graduate studies!
   * New <a href="https://doi.org/10.2196/42128">paper</a> on spatiotemporal trends in self-reported face mask-wearing in the U.S. <a href="/files/masking.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
