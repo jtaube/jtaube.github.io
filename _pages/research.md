@@ -22,7 +22,7 @@ author_profile: true
 <a href="https://doi.org/10.1101/2024.04.26.24306450"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
 
-## Selected publications:
+## Peer-reviewed publications:
 
 <strong>  Spatiotemporal trends in self‑reported mask‑wearing behavior in the United States: Analysis of a large cross‑sectional survey.</strong> <br>
 <strong> Taube JC</strong>, Susswein Z, Bansal S (2023) <i> JMIR Public Health and Surveillance </i> 9: e42128
