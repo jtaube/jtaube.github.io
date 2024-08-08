@@ -5,18 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
-## Current projects:
+## Current projects
 <!-- add photos!!!! -->
 <ul>
 
 <li> <b> Disentangling aerosol and droplet respiratory disease transmission routes: </b> Using outbreak reports, laboratory transmission experiments, and contact data, I am characterizing how contact structure varies across different pathogen transmission modes and the implications of this variation for disease dynamics. </li>
 
-<li> <b> Quantifying the social and disease effects of hygienic behaviors across species & scales: </b> I am integrating animal contact networks with data from experimental and observational studies of hygienic behaviors to understand how these behavior changes alter social structure and disease dynamics across animal species.  </li>
+<li> <b> Quantifying the social and disease effects of hygienic behaviors across species & scales: </b> I am integrating data from experimental and observational studies of hygienic behaviors into animal social contact networks to understand how these behavior changes alter social structure and disease dynamics across animal species.  </li>
 
 </ul>
 
 
-## Preprints:
+## Preprints
 
 Respiratory disease contact patterns in the US are stable but heterogeneous <br>
 Taube JC, Susswein Z, Colizza V, Bansal S (2024) <i> medRxiv </i> 
@@ -24,7 +24,7 @@ Taube JC, Susswein Z, Colizza V, Bansal S (2024) <i> medRxiv </i>
 <a href="https://doi.org/10.1101/2024.04.26.24306450"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
 
-## Peer-reviewed publications:
+## Peer-reviewed publications
 
 Spatiotemporal trends in self‑reported mask‑wearing behavior in the United States: Analysis of a large cross‑sectional survey <br>
 Taube JC, Susswein Z, Bansal S (2023) <i> JMIR Public Health and Surveillance </i> 9: e42128
