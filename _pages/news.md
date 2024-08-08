@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2024
+  * Attended SISMID at Emory
   * Passed my first year qualifying exam!
   * New <a href="https://doi.org/10.1101/2024.04.26.24306450">preprint</a> on contact patterns in the U.S.
 
