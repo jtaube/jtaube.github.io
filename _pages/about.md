@@ -17,6 +17,6 @@ Outside the lab, I enjoy experimenting with new recipes, playing ice hockey, and
 
 ## News
 
-07/24: Attended SISMID at Emory
-05/24: Passed my first year qualifying exam!
+07/24: Attended SISMID at Emory <br>
+05/24: Passed my first year qualifying exam! <br>
 04/24: New <a href="https://doi.org/10.1101/2024.04.26.24306450">preprint</a> on contact patterns in the U.S.
