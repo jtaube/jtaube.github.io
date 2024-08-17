@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 ## Preprints
 
 Respiratory disease contact patterns in the US are stable but heterogeneous <br>

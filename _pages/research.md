@@ -16,4 +16,6 @@ Using outbreak reports, laboratory transmission experiments, and contact data, I
 
 I am integrating data from experimental and observational studies of hygienic behaviors into animal social contact networks to understand how these behavior changes alter social structure and disease dynamics across animal species.  </li>
 
+<!-- ![](/images/profile.png) -->
+
 </ul>
