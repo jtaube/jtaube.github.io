@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Research" #This was publications, will have publications, current projects
+  - title: "Current Projects" #current projects
     url: /research/
     
- # - title: "News" #This will have presentations, any news like here's our outbreak __
-   # url: /news/
+  - title: "Publications" #publications
+    url: /publications/
     
   - title: "CV" # attach as pdf, add more to about me
     url: /cv/
