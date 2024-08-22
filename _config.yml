@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Juliana Taube"
   avatar           : "headshot4.jpeg"
-  bio              : "PhD Student\nshe/her"
-  pronouns         : #"she/her/hers"
+  bio              : "PhD Student"
+  pronouns         : "she/her/hers"
   location         : "Georgetown University"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
