@@ -18,7 +18,7 @@ author_profile: true
             {% endif %}
             title="{{ deck.title }}"
         >
-        <img class="thumb" width="100" src=
+        <img class="thumb" width="10" src=
           {% if deck.image_path contains "://" %}
             "{{ deck.image_path }}"
           {% else %}
@@ -46,7 +46,7 @@ author_profile: true
             {% endif %}
             title="{{ deck.title }}"
         >
-        <img class="thumb" width="100" src=
+        <img class="thumb" width="10" src=
           {% if deck.image_path contains "://" %}
             "{{ deck.image_path }}"
           {% else %}
