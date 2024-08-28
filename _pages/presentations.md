@@ -8,7 +8,7 @@ author_profile: true
 ## Talks
 
 <div>
-    {% for deck in site.data.slides.slides %}
+    {% for deck in site.data.presentations.slides %}
     <figure>
         <a href=
             {% if deck.url contains "://" %}
@@ -36,7 +36,7 @@ author_profile: true
 ## Posters
 
 <div>
-    {% for deck in site.data.slides.posters %}
+    {% for deck in site.data.presentations.posters %}
     <figure>
         <a href=
             {% if deck.url contains "://" %}
