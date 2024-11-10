@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a second-year PhD student in Biology in the <a href='http://bansallab.com/'>Bansal Lab</a> at Georgetown University. My research is focused on the interplay between behavior and infectious disease, including how disease-relevant behaviors (such as contact patterns, vaccination, and mask wearing) vary across space, time, individuals, populations, and disease states. I am an NSF Graduate Research Fellow and a member of the < href="https://midasnetwork.us/midas-student/">MIDAS Trainee Network Executive Committee</a>. 
+Hello! I'm a second-year PhD student in Biology in the <a href='http://bansallab.com/'>Bansal Lab</a> at Georgetown University. My research is focused on the interplay between behavior and infectious disease, including how disease-relevant behaviors (such as contact patterns, vaccination, and mask wearing) vary across space, time, individuals, populations, and disease states. I am an NSF Graduate Research Fellow and a member of the <a href="https://midasnetwork.us/midas-student/">MIDAS Trainee Network Executive Committee</a>. 
 
 My full CV is available [here](/files/taube-cv.pdf).
 
