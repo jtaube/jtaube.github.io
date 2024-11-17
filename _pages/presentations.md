@@ -9,7 +9,7 @@ author_profile: true
 
 <div>
     {% for deck in site.data.presentations.slides %}
-    <figure width="100">
+    <figure>
         <a href=
             {% if deck.url contains "://" %}
               "{{ deck.url }}"
