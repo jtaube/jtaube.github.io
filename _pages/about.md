@@ -17,7 +17,7 @@ Outside the lab, I enjoy experimenting with new recipes, playing ice hockey, and
 
 ## News
 
-11/24: Presenting smallpox vaccination work at annual MIDAS meeting <br>
+11/24: Presented smallpox vaccination work at annual MIDAS meeting <br>
 07/24: Attended SISMID at Emory <br>
 05/24: Passed my first year qualifying exam! <br>
 04/24: New <a href="https://doi.org/10.1101/2024.04.26.24306450">preprint</a> on contact patterns in the U.S.
