@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-<b>Respiratory disease contact patterns in the US are stable but heterogeneous</b> <br>
+<b>Characterizing US contact patterns relevant to respiratory transmission from a pandemic to baseline: Analysis of a large cross-sectional survey</b> <br>
 Juliana C. Taube, Zachary Susswein, Vittoria Colizza, Shweta Bansal (2024) <i> medRxiv </i> 
 <br>
 <a href="https://doi.org/10.1101/2024.04.26.24306450"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
