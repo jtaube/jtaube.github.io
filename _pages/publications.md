@@ -12,7 +12,7 @@ Juliana C. Taube, Zachary Susswein, Vittoria Colizza, Shweta Bansal (2024) <i> m
 <br>
 <a href="https://doi.org/10.1101/2024.04.26.24306450"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
-**The extent and drivers of gender and race/ethnicity imbalance in infectious disease dynamics research** <br>
+**The extent of gender and race/ethnicity imbalance in infectious disease dynamics research** <br>
 Juliana C. Taube\*, Alexes Merritt\*, Shweta Bansal (2024) <i> bioRxiv </i> 
 <br>
 <a href="https://doi.org/10.1101/2024.12.19.629420"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
