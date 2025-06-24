@@ -6,7 +6,7 @@ tags:
   - papers
 ---
 
-A summary of our <a href="https://doi.org/10.2196/42128">paper</a>: "Characterizing US contact patterns relevant to respiratory transmission from a pandemic to baseline: Analysis of a large cross-sectional survey". 
+A summary of our paper: "Characterizing US contact patterns relevant to respiratory transmission from a pandemic to baseline: Analysis of a large cross-sectional survey". 
 
 I previously shared a similar thread on Twitter and have expanded it here for clarity and posterity.
 
