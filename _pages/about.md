@@ -1,16 +1,17 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I'm a third-year PhD student in Biology in the <a href='http://bansallab.com/'>Bansal Lab</a> at Georgetown University. My research explores the interplay between behavior and infectious disease, with a focus on how contact patterns vary across space, time, transmission modes, and disease states.
+# Hi! I'm Juliana.
 
-I am an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and a member of the <a href="https://midasnetwork.us/midas-student/">MIDAS Trainee Network Executive Committee</a>. I graduated from Bowdoin College in 2021 where I studied math and biology. In 2019, I participated in an REU at the University of Georgia which sparked my interest in disease ecology. My full CV is available [here](/files/taube-cv.pdf).
+I'm a third-year PhD student in Biology in the <a href='http://bansallab.com/'>Bansal Lab</a> at Georgetown University. My research explores the interplay between behavior and infectious disease, with a focus on how contact patterns vary across space, time, transmission modes, and disease states.
+
+I'm also an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and a member of the <a href="https://midasnetwork.us/midas-student/">MIDAS Trainee Network Executive Committee</a>. I graduated from Bowdoin College in 2021 where I studied math and biology. In 2019, I participated in an REU at the University of Georgia which sparked my interest in disease ecology. My full CV is available [here](/files/taube-cv.pdf).
 
 Outside the lab, I enjoy experimenting with new recipes, playing ice hockey, and biking along the Potomac. 
 
