@@ -5,21 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
+<!-- ## Preprints -->
+
+<!--## Peer-reviewed articles-->
 
 **Characterizing US contact patterns relevant to respiratory transmission from a pandemic to baseline: Analysis of a large cross-sectional survey** <br>
-Juliana C. Taube, Zachary Susswein, Vittoria Colizza, Shweta Bansal (2024) <i> medRxiv </i> 
+Juliana C. Taube, Zachary Susswein, Vittoria Colizza, Shweta Bansal (2025) <i> In press at The Lancet Digital Health </i> 
 <br>
 <a href="https://doi.org/10.1101/2024.04.26.24306450"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
 **The extent of gender and race/ethnicity imbalance in infectious disease dynamics research** <br>
-Juliana C. Taube\*, Alexes Merritt\*, Shweta Bansal (2024) <i> bioRxiv </i> 
+Juliana C. Taube\*, Alexes Merritt\*, Shweta Bansal (2025) <i> In press at Proceedings of the Royal Society: B </i> 
 <br>
 <a href="https://doi.org/10.1101/2024.12.19.629420"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
-
-
-## Peer-reviewed articles
 
 **Spatiotemporal trends in self‑reported mask‑wearing behavior in the United States: Analysis of a large cross‑sectional survey** <br>
 Juliana C. Taube, Zachary Susswein, Shweta Bansal (2023) <i> JMIR Public Health and Surveillance </i> 9: e42128

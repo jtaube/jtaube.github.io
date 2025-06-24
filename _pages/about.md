@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a second-year PhD student in Biology in the <a href='http://bansallab.com/'>Bansal Lab</a> at Georgetown University. My research is focused on the interplay between behavior and infectious disease, including how disease-relevant behaviors (such as contact patterns, vaccination, and mask wearing) vary across space, time, individuals, populations, and disease states. 
+Hello! I'm a third-year PhD student in Biology in the <a href='http://bansallab.com/'>Bansal Lab</a> at Georgetown University. My research explores the interplay between behavior and infectious disease, with a focus on how contact patterns vary across space, time, transmission modes, and disease states.
 
-I am an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and a member of the <a href="https://midasnetwork.us/midas-student/">MIDAS Trainee Network Executive Committee</a>. My full CV is available [here](/files/taube-cv.pdf).
+I am an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and a member of the <a href="https://midasnetwork.us/midas-student/">MIDAS Trainee Network Executive Committee</a>. I graduated from Bowdoin College in 2021 where I studied math and biology. In 2019, I participated in an REU at the University of Georgia which sparked my interest in disease ecology. My full CV is available [here](/files/taube-cv.pdf).
 
-Outside the lab, I enjoy experimenting with new recipes, playing ice hockey, and riding my bike along the Potomac. 
+Outside the lab, I enjoy experimenting with new recipes, playing ice hockey, and biking along the Potomac. 
+
+Please reach out if you would like to collaborate or have questions about my work!
 
 
 ## News
-
-11/24: Presented smallpox vaccination work at annual MIDAS meeting <br>
-07/24: Attended SISMID at Emory <br>
-05/24: Passed my first year qualifying exam! <br>
-04/24: New <a href="https://doi.org/10.1101/2024.04.26.24306450">preprint</a> on contact patterns in the U.S.
+04/25: Presented [smallpox vaccination work](/files/taube-wvc-2025-poster.pdf) at World Vaccine Congress in DC
+<!-- 06/25: Citation work out in <i> Proceedings B</i>--> <br> 
+<!--05/25: Contact patterns manuscript out in <i> The Lancet Digital Health</i>--> <br>
