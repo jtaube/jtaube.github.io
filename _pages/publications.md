@@ -14,10 +14,10 @@ Juliana C. Taube, Zachary Susswein, Vittoria Colizza, Shweta Bansal (2025) <i> I
 <br>
 <a href="https://doi.org/10.1101/2024.04.26.24306450"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
-**The extent of gender and race/ethnicity imbalance in infectious disease dynamics research** <br>
-Juliana C. Taube\*, Alexes Merritt\*, Shweta Bansal (2025) <i> In press at Proceedings of the Royal Society: B </i> 
+**Twenty years of infectious disease dynamics research: gender and race imbalances in publication and citation practices** <br>
+Juliana C. Taube\*, Alexes Merritt\*, Shweta Bansal (2025) <i> Proceedings of the Royal Society B </i> 292: 20250960
 <br>
-<a href="https://doi.org/10.1101/2024.12.19.629420"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="https://doi.org/10.1098/rspb.2025.0960"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/citation.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/IDD_imbalance"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> <a href="https://bansallab.com/iddcitationanalysis"><i class="fas fa-solid fa-toolbox" aria-hidden="true"></i></a>
 
 
 **Spatiotemporal trends in self‑reported mask‑wearing behavior in the United States: Analysis of a large cross‑sectional survey** <br>
