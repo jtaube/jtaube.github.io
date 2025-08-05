@@ -35,7 +35,7 @@ Juliana C. Taube\*, Eva C. Rest\*, James O. Lloyd-Smith, Shweta Bansal (2022) <i
 **An open-access database of infectious disease transmission trees to explore superspreader epidemiology** <br>
 Juliana C. Taube, Paige B. Miller, John M. Drake (2022) <i>PLoS Biology</i> 20(6): e3001685
 <br>
-<a href="https://doi.org/10.1371/journal.pbio.3001685"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/outbreak-trees.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/DrakeLab/taube-transmission-trees"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+<a href="https://doi.org/10.1371/journal.pbio.3001685"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/outbreak-trees.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/DrakeLab/taube-transmission-trees"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> <a href="https://outbreaktrees.ecology.uga.edu"><i class="fas fa-solid fa-toolbox" aria-hidden="true"></i></a>
 
 <!-- <a href="/files/outbreaktrees-preprint.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
 
