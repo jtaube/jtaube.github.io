@@ -19,6 +19,7 @@ Please reach out if you would like to collaborate or have questions about my wor
 
 
 ## News
+08/25: US pandemic & baseline contact patterns work out in [<i> Lancet Digital Health</i>](/files/contact.pdf)<br>
 07/25: Analysis of infectious disease dynamics authorship & citation patterns out in [<i>Proceedings B</i>](/files/citation.pdf)<br> 
 04/25: Presented [smallpox vaccination work](/files/taube-wvc-2025-poster.pdf) at World Vaccine Congress in DC
 <!--05/25: Contact patterns manuscript out in <i> The Lancet Digital Health</i>--> <br>

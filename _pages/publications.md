@@ -9,10 +9,10 @@ author_profile: true
 
 <!--## Peer-reviewed articles-->
 
-**Characterizing US contact patterns relevant to respiratory transmission from a pandemic to baseline: Analysis of a large cross-sectional survey** <br>
+**Characterising non-household contact patterns relevant to respiratory transmission in the USA: analysis of a cross-sectional survey** <br>
 Juliana C. Taube, Zachary Susswein, Vittoria Colizza, Shweta Bansal (2025) <i> In press at The Lancet Digital Health </i> 
 <br>
-<a href="https://doi.org/10.1101/2024.04.26.24306450"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="https://doi.org/10.1016/j.landig.2025.100888"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/contact.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/resp_contact"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> 
 
 **Twenty years of infectious disease dynamics research: gender and race imbalances in publication and citation practices** <br>
 Juliana C. Taube\*, Alexes Merritt\*, Shweta Bansal (2025) <i> Proceedings of the Royal Society B </i> 292: 20250960
