@@ -10,7 +10,7 @@ author_profile: true
 <!--## Peer-reviewed articles-->
 
 **Characterising non-household contact patterns relevant to respiratory transmission in the USA: analysis of a cross-sectional survey** <br>
-Juliana C. Taube, Zachary Susswein, Vittoria Colizza, Shweta Bansal (2025) <i> In press at The Lancet Digital Health </i> 
+Juliana C. Taube, Zachary Susswein, Vittoria Colizza, Shweta Bansal (2025) <i> The Lancet Digital Health </i> 7(8):100888
 <br>
 <a href="https://doi.org/10.1016/j.landig.2025.100888"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> <a href="/files/contact.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/bansallab/resp_contact"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> 
 

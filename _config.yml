@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juliana C. Taube"
+title                    : "Juliana Taube"
 title_separator          : "-"
-name                     : &name "Juliana C. Taube"
+name                     : &name "Juliana Taube"
 description              : &description "personal description"
 url                      : https://jtaube.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Juliana Taube"
   avatar           : "headshot4.jpeg"
-  bio              : "PhD Student"
+  bio              : "PhD Candidate"
   pronouns         : "she/her"
   location         : "Washington, DC"
   employer         : 
