@@ -5,9 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ## Preprints -->
+## Preprints
 
-<!--## Peer-reviewed articles-->
+**Characterizing the impacts of disease on behavior across scales: Policy, perception, and potential for infection** <br>
+Casey M. Woika\*, Juliana C. Taube\*, Vittoria Colizza, Shweta Bansal (2025) <i> medRxiv </i>
+<br>
+<a href="https://doi.org/10.64898/2026.03.09.26347630"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>  <a href="https://github.com/jtaube/policy_perception"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a> 
+
+## Peer-reviewed articles
 
 **Characterising non-household contact patterns relevant to respiratory transmission in the USA: analysis of a cross-sectional survey** <br>
 Juliana C. Taube, Zachary Susswein, Vittoria Colizza, Shweta Bansal (2025) <i> The Lancet Digital Health </i> 7(8):100888
