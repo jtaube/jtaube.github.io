@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Current Projects" #current projects
-    url: /research/
     
   - title: "Publications" #publications
     url: /publications/
